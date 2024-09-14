@@ -20,10 +20,10 @@
   <br/><br/><br/>
 </div>
 
-<h1 align="left">Connect with me:</h1>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://twitter.com/kanishk0107" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanishk0107" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanishk0107" height="30" width="40" /></a></p>
   </a>
   <a href="https://linkedin.com/in/kanishk-a-bhardwaj" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishk-a-bhardwaj" height="30" width="40" />
