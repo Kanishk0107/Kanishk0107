@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Hey+There!+👋;+I'm+Kanishk+Bhardwaj;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Kanishk+Bhardwaj;" />
 </h1>
 
 <p align="left"> 
@@ -85,6 +85,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanishk0107&show_icons=true&locale=en" alt="kanishk0107" /></p>
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=1500&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;Let's+collab!+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=80&duration=5000&lines=Thanks+for+visiting+🫶;+Shoot+me+a+message+on+Linkedin 📱;Let's+collab❣️">
 </h3>
 <br>
