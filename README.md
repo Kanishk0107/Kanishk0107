@@ -84,7 +84,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishk0107&show_icons=true&locale=en&layout=compact" alt="kanishk0107" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanishk0107&show_icons=true&locale=en" alt="kanishk0107" /></p>
+
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=80&duration=5000&lines=Thanks+for+visiting+🫶;+Shoot+me+a+message+on+Linkedin 📱;Let's+collab❣️">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Thanks+for+visiting+✌️;+Shoot+me+a+message+on+Linkedin+🫶;Let's+collab+❣️">
 </h3>
-<br>
+
+<br/>
