@@ -86,6 +86,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanishk0107&show_icons=true&locale=en" alt="kanishk0107" /></p>
 
 <h3 align="center">
+    <a href="https://linkedin.com/in/kanishk-a-bhardwaj" target="blank">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Thanks+for+visiting+✌️;+Shoot+me+a+message+on+Linkedin+🫶;Let's+collab+❣️">
 </h3>
 
