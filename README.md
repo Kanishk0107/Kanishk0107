@@ -1,93 +1,182 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Kanishk+Bhardwaj;" />
-</h1>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=kanishk0107&label=Profile%20views&color=0e75b6&style=flat" alt="kanishk0107" /> 
-</p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kanishk0107" alt="kanishk0107" />
-  </a> 
-</p>
+<!--
+  ╔══════════════════════════════════════════════════════════╗
+  ║         KANISHK BHARDWAJ — GitHub Profile README         ║
+  ╚══════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/anonym-saurab/anonym-saurab/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-  <a href="https://twitter.com/kanishk0107" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanishk0107" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/kanishk-a-bhardwaj" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishk-a-bhardwaj" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/kanishkbhardwaj0107" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kanishkbhardwaj0107" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/kanishk_a_bhardwaj" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanishk_a_bhardwaj" height="30" width="40" />
-  </a>
-</p>
-<h1 align="left">Languages and Tools:</h1>
-<p align="left"> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="40" height="40"/> 
-  </a> 
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-</p>
+<!-- ── HERO TAG ── -->
+<img src="https://img.shields.io/badge/%E2%97%88%20OPEN%20TO%20COLLABORATE-3dd9c1?style=flat&labelColor=0d1224&color=0d1224&logoColor=3dd9c1" alt="Open to Collaborate"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishk0107&show_icons=true&locale=en&layout=compact" alt="kanishk0107" /></p>
+<br/><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanishk0107&show_icons=true&locale=en" alt="kanishk0107" /></p>
-
-<h3 align="center">
-    <a href="https://linkedin.com/in/kanishk-a-bhardwaj" target="blank">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Thanks+for+visiting+✌️;+Shoot+me+a+message+on+Linkedin+🫶;Let's+collab+❣️">
-</h3>
+<!-- ── NAME (single clean line, no duplicate) ── -->
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=65&pause=2000&color=7C6DFA&center=true&vCenter=true&width=900&height=90&lines=Kanishk+Bhardwaj" alt="Kanishk Bhardwaj"/>
 
 <br/>
+
+<!-- ── SUBTITLE ── -->
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=19&pause=1500&color=888888&center=true&vCenter=true&width=700&height=45&lines=Building+intelligent+systems+at+the+intersection...;...of+data%2C+vision%2C+and+machine+learning." alt="subtitle"/>
+
+<br/><br/>
+
+<!-- ── CTA BUTTONS ── -->
+[![LinkedIn](https://img.shields.io/badge/LET'S%20CONNECT%20→-7c6dfa?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishk-a-bhardwaj)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/VIEW%20GITHUB-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanishk0107)
+
+</div>
+
+---
+
+<br/>
+
+<!-- ══════════════════════ ABOUT ══════════════════════ -->
+
+<h2 align="center">◈ &nbsp; About &nbsp; ◈</h2>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**`01 / Focus` — ML & AI**
+
+Deep learning, computer vision, and NLP — building models that understand and interact with the world.
+
+</td>
+<td width="50%" valign="top">
+
+**`02 / Stack` — Python First**
+
+PyTorch, TensorFlow, scikit-learn, OpenCV, pandas — full pipeline from raw data to deployed model.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**`03 / Data` — Databases**
+
+Comfortable with MySQL, PostgreSQL, and big-data tooling like Hadoop for large-scale workloads.
+
+</td>
+<td width="50%" valign="top">
+
+**`04 / Design` — Figma & UI**
+
+Bridging engineering and design — from wireframes in Figma to polished interfaces powered by Firebase.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ══════════════════════ STATS BANNER ══════════════════════ -->
+
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/7%2B-TOOLS%20%26%20LANGUAGES-7c6dfa?style=for-the-badge&labelColor=111111)&nbsp;
+![](https://img.shields.io/badge/%E2%88%9E-CURIOSITY-3dd9c1?style=for-the-badge&labelColor=111111)&nbsp;
+![](https://img.shields.io/badge/1-MISSION-e85d4a?style=for-the-badge&labelColor=111111)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ══════════════════════ STACK ══════════════════════ -->
+
+<h2 align="center">◈ &nbsp; Stack &nbsp; ◈</h2>
+
+<br/>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ══════════════════════ GITHUB STATS ══════════════════════ -->
+
+<h2 align="center">◈ &nbsp; Stats &nbsp; ◈</h2>
+
+<br/>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kanishk0107&show_icons=true&theme=tokyonight&title_color=7c6dfa&icon_color=3dd9c1&border_color=1e2540&bg_color=0d1224&hide_border=false" alt="GitHub Stats"/>
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishk0107&layout=compact&theme=tokyonight&title_color=7c6dfa&text_color=e8eaf6&border_color=1e2540&bg_color=0d1224" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kanishk0107&theme=tokyonight&hide_border=false&border=1e2540&ring=7c6dfa&fire=e85d4a&currStreakLabel=3dd9c1&background=0d1224" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ══════════════════════ CONNECT ══════════════════════ -->
+
+<h2 align="center">◈ &nbsp; Connect &nbsp; ◈</h2>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishk-a-bhardwaj)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kanishk_0107/)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ══════════════════════ FOOTER ══════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=14&pause=2000&color=888888&center=true&vCenter=true&width=700&height=35&lines=Built+with+%E2%99%A5+%C2%B7+kanishk0107+%C2%B7+let%27s+build+something+together." alt="footer"/>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kanishk0107&label=PROFILE+VIEWS&color=7c6dfa&style=for-the-badge)
+
+</div>
